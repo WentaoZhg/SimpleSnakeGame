@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Limlpop+fCLr61iHmN4z06AIG5vZht0CqoZTeqzdSwO6ctEPAE6TrqSq5j3Io1C+HL8CBvB9HKYCdzAO5pI0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wenta\\source\\repos\\game-pandas\\PS8Skeleton\\WorldController\\World.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wenta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

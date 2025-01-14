@@ -1,0 +1,5 @@
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\WorldController\obj\Debug\net6.0\World.csproj.AssemblyReference.cache
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\WorldController\obj\Debug\net6.0\World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\WorldController\obj\Debug\net6.0\World.AssemblyInfoInputs.cache
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\WorldController\obj\Debug\net6.0\World.AssemblyInfo.cs
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\WorldController\obj\Debug\net6.0\World.csproj.CoreCompileInputs.cache

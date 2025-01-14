@@ -1,0 +1,15 @@
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\bin\Debug\net6.0\World.deps.json
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\bin\Debug\net6.0\World.dll
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\bin\Debug\net6.0\World.pdb
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\bin\Debug\net6.0\Vector2D.dll
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\bin\Debug\net6.0\Vector2D.pdb
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\obj\Debug\net6.0\World.csproj.AssemblyReference.cache
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\obj\Debug\net6.0\World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\obj\Debug\net6.0\World.AssemblyInfoInputs.cache
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\obj\Debug\net6.0\World.AssemblyInfo.cs
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\obj\Debug\net6.0\World.csproj.CoreCompileInputs.cache
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\obj\Debug\net6.0\World.csproj.CopyComplete
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\obj\Debug\net6.0\World.dll
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\obj\Debug\net6.0\refint\World.dll
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\obj\Debug\net6.0\World.pdb
+C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\World\obj\Debug\net6.0\ref\World.dll
