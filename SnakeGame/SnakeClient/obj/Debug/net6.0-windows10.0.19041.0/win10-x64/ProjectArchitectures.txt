@@ -1,1 +1,0 @@
-C:\Users\wenta\source\repos\game-pandas\PS8Skeleton\SnakeClient\SnakeClient.csproj;x64
